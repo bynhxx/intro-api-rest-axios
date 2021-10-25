@@ -1,0 +1,5 @@
+/* 
+CORS
+-   mecanismo de segurança em aplicações http que bloqueia 
+-   requisições externas. Basta usar a lib cors
+*/
